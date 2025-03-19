@@ -1,0 +1,8 @@
+{
+  "name": "veteran-connect",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "6d1948a4"
+}
